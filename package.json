@@ -1,0 +1,11 @@
+{
+  "name": "crypt",
+  "version": "1.0.0",
+  "description": "crypto help-module for passing data to/from php via redis",
+  "main": "crypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johan Nordström",
+  "license": "ISC"
+}
